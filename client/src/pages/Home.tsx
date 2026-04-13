@@ -15,7 +15,7 @@ export default function Home() {
       {/* Navigation */}
       <nav className="sticky top-0 z-50 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 border-b border-border">
         <div className="container flex items-center justify-between h-16">
-          <div className="font-display text-2xl font-bold text-primary">
+          <div className="text-2xl font-bold text-primary" style={{fontFamily: "'Playfair Display', serif"}}>
             프리미엄 위생팬티
           </div>
           <div className="hidden md:flex gap-8">
@@ -48,7 +48,7 @@ export default function Home() {
             {/* Text - Right Side, Top Aligned */}
             <div className="order-1 md:order-2 space-y-6">
               <div className="space-y-3">
-                <h1 className="font-display text-4xl md:text-5xl font-bold leading-tight text-foreground">
+                <h1 className="text-4xl md:text-5xl font-bold leading-tight text-foreground" style={{fontFamily: "'Playfair Display', serif"}}>
                   유명 브랜드의 그 팬티,
                   <span className="text-primary"> 사실 우리가 만듭니다</span>
                 </h1>
@@ -91,7 +91,7 @@ export default function Home() {
             {/* Text - Left */}
             <div className="space-y-6">
               <div>
-                <h2 className="font-display text-3xl md:text-4xl font-bold mb-4 text-foreground">
+                <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground" style={{fontFamily: "'Playfair Display', serif"}}>
                   더 이상 불편함과 타협하지 마세요
                 </h2>
                 <p className="text-lg text-muted-foreground">
@@ -166,7 +166,7 @@ export default function Home() {
             {/* Text - Left */}
             <div className="space-y-6">
               <div>
-                <h2 className="font-display text-3xl md:text-4xl font-bold mb-4 text-foreground">
+                <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground" style={{fontFamily: "'Playfair Display', serif"}}>
                   보이지 않는 곳에서 묵묵히, 오직 품질만을 고집합니다
                 </h2>
               </div>
@@ -202,7 +202,7 @@ export default function Home() {
       <section id="features" className="py-16 md:py-24 bg-secondary/30">
         <div className="container">
           <div className="text-center mb-12">
-            <h2 className="font-display text-3xl md:text-4xl font-bold mb-4 text-foreground">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground" style={{fontFamily: "'Playfair Display', serif"}}>
               기술이 만든 편안함
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
@@ -260,7 +260,7 @@ export default function Home() {
       <section className="py-16 md:py-24">
         <div className="container">
           <div className="text-center mb-12">
-            <h2 className="font-display text-3xl md:text-4xl font-bold mb-4 text-foreground">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground" style={{fontFamily: "'Playfair Display', serif"}}>
               이미 수많은 여성들이 경험했습니다
             </h2>
             <p className="text-lg text-muted-foreground">
@@ -314,7 +314,7 @@ export default function Home() {
       {/* CTA Section */}
       <section id="cta" className="py-16 md:py-24 bg-primary text-primary-foreground">
         <div className="container text-center space-y-6">
-          <h2 className="font-display text-3xl md:text-4xl font-bold">
+          <h2 className="text-3xl md:text-4xl font-bold" style={{fontFamily: "'Playfair Display', serif"}}>
             지금 바로 공장 직송 가격으로 경험하세요
           </h2>
           <p className="text-lg opacity-90 max-w-2xl mx-auto">
@@ -339,7 +339,7 @@ export default function Home() {
         <div className="container">
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
-              <h3 className="font-display font-bold text-lg mb-4 text-foreground">
+              <h3 className="font-bold text-lg mb-4 text-foreground" style={{fontFamily: "'Playfair Display', serif"}}>
                 프리미엄 위생팬티
               </h3>
               <p className="text-sm text-muted-foreground">
