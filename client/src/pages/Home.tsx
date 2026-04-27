@@ -143,7 +143,7 @@ export default function Home() {
             {/* Image - Right */}
             <div className="order-first md:order-last">
               <img
-                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663462775917/hqomRzkjkZ5MfiSrAtwV8x/comfort-lifestyle-image-SKXV5ZGrpzP8q7rA3h5o2p.webp"
+                src="/manus-storage/comfort-lifestyle-image_d0e4b9d1.png"
                 alt="편안함을 느끼는 여성"
                 className="w-full h-auto rounded-lg shadow-lg"
               />
