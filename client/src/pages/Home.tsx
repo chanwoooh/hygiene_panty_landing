@@ -159,7 +159,7 @@ export default function Home() {
             {/* Image - Right */}
             <div>
               <img
-                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663462775917/hqomRzkjkZ5MfiSrAtwV8x/factory-process-clean-HyaDAREVmcRnDMsDYd68vA.webp"
+                src="/manus-storage/factory-process-clean_b31b9ac7.png"
                 alt="현대적인 제조 공장"
                 className="w-full h-auto rounded-lg shadow-lg"
               />
