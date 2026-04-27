@@ -39,7 +39,7 @@ export default function Home() {
             {/* Image - Left Side */}
             <div className="order-2 md:order-1">
               <img
-                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663462775917/hqomRzkjkZ5MfiSrAtwV8x/hero-product-main-LLYgxUBCixzEuRG5E7jxns.webp"
+                src="/manus-storage/hero-product-main_5778dc7a.png"
                 alt="프리미엄 여성 위생팬티 제품"
                 className="w-full h-auto rounded-lg shadow-lg"
               />
