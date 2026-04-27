@@ -250,8 +250,8 @@ export default function Home() {
           {/* Product Detail Image */}
           <div className="mt-12">
             <img
-              src="https://d2xsxph8kpxj0f.cloudfront.net/310519663462775917/hqomRzkjkZ5MfiSrAtwV8x/product-detail-close-up-EGzNMSMPwX2SCqdfgK2sfV.webp"
-              alt="제품 상세 이미지 - 5중 흡수 구조"
+              src="/manus-storage/product-detail-close-up_f4c85524.png"
+              alt="제품 상세 이미지 - 5중 흐수 구조"
               className="w-full h-auto rounded-lg shadow-lg max-w-2xl mx-auto"
             />
           </div>
