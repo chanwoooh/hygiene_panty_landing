@@ -72,13 +72,15 @@ export default function Home() {
                 </div>
               </div>
 
-              <Button
-                size="lg"
-                className="bg-primary hover:bg-primary/90 text-primary-foreground gap-2 w-full md:w-auto"
+              <a
+                href="https://www.amazoncare.com/goods/goods_view.php?goodsNo=1000009059"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-2 bg-primary hover:bg-primary/90 text-primary-foreground px-6 py-3 rounded-md font-medium text-lg w-full md:w-auto"
               >
                 공장 직송가로 구매하기
                 <ArrowRight className="w-4 h-4" />
-              </Button>
+              </a>
             </div>
           </div>
         </div>
@@ -320,14 +322,15 @@ export default function Home() {
           <p className="text-lg opacity-90 max-w-2xl mx-auto">
             제조사의 기술력으로 완성된 프리미엄 위생팬티를 특별한 가격으로 만나보세요
           </p>
-          <Button
-            size="lg"
-            variant="secondary"
-            className="gap-2 mx-auto"
+          <a
+            href="https://www.amazoncare.com/goods/goods_view.php?goodsNo=1000009059"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center justify-center gap-2 bg-secondary hover:bg-secondary/80 text-secondary-foreground px-6 py-3 rounded-md font-medium text-lg mx-auto"
           >
             프리미엄 위생팬티 구매하기
             <ArrowRight className="w-4 h-4" />
-          </Button>
+          </a>
           <p className="text-sm opacity-75">
             첫 구매 시 특별 할인 적용 | 배송료 무료
           </p>
