@@ -16,7 +16,7 @@ export default function Home() {
       <nav className="sticky top-0 z-50 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 border-b border-border">
         <div className="container flex items-center justify-between h-16">
           <div className="text-2xl font-bold text-primary" style={{fontFamily: "'Playfair Display', serif"}}>
-            프리미엄 위생팬티
+            프리미엄 요실금 위생팬티
           </div>
           <div className="hidden md:flex gap-8">
             <a href="#features" className="text-sm font-medium hover:text-primary transition-colors">
@@ -97,7 +97,7 @@ export default function Home() {
                   요실금, 이제 팬티로 해결하세요
                 </h2>
                 <p className="text-lg text-muted-foreground">
-                  요실금으로 고민이셨나요? 저희는 프리미엄 위생팬티와 동일한 고급 소재로 제작한 요실금팬티를 제공합니다. 오히려 더 높은 품질의 흡수력과 통기성으로 편안함을 보장합니다.
+                  요실금으로 고민이셨나요? 저희는 프리미엄 요실금 위생팬티와 동일한 고급 소재로 제작한 요실금팬티를 제공합니다. 오히려 더 높은 품질의 흡수력과 통기성으로 편안함을 보장합니다.
                 </p>
               </div>
 
@@ -208,7 +208,7 @@ export default function Home() {
               기술이 만든 편안함
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              당신의 매일을 바꾸는 프리미엄 위생팬티의 특징
+              당신의 매일을 바꾸는 프리미엄 요실금 위생팬티의 특징
             </p>
           </div>
 
@@ -266,7 +266,7 @@ export default function Home() {
               이미 수많은 여성들이 경험했습니다
             </h2>
             <p className="text-lg text-muted-foreground">
-              제조사의 기술력으로 완성된 프리미엄 위생팬티를 만나보세요
+              제조사의 기술력으로 완성된 프리미엄 요실금 위생팬티를 만나보세요
             </p>
           </div>
 
@@ -320,7 +320,7 @@ export default function Home() {
             지금 바로 공장 직송 가격으로 경험하세요
           </h2>
           <p className="text-lg opacity-90 max-w-2xl mx-auto">
-            제조사의 기술력으로 완성된 프리미엄 위생팬티를 특별한 가격으로 만나보세요
+            제조사의 기술력으로 완성된 프리미엄 요실금 위생팬티를 특별한 가격으로 만나보세요
           </p>
           <a
             href="https://www.amazoncare.com/goods/goods_view.php?goodsNo=1000009059"
@@ -328,7 +328,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 bg-secondary hover:bg-secondary/80 text-secondary-foreground px-6 py-3 rounded-md font-medium text-lg mx-auto"
           >
-            프리미엄 위생팬티 구매하기
+            프리미엄 요실금 위생팬티 구매하기
             <ArrowRight className="w-4 h-4" />
           </a>
           <p className="text-sm opacity-75">
@@ -343,10 +343,10 @@ export default function Home() {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
               <h3 className="font-bold text-lg mb-4 text-foreground" style={{fontFamily: "'Playfair Display', serif"}}>
-                프리미엄 위생팬티
+                프리미엄 요실금 위생팬티
               </h3>
               <p className="text-sm text-muted-foreground">
-                제조사의 기술력으로 완성된 프리미엄 위생팬티
+                제조사의 기술력으로 완성된 프리미엄 요실금 위생팬티
               </p>
             </div>
             <div>
@@ -375,7 +375,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-border pt-8 text-center text-sm text-muted-foreground">
-            <p>&copy; 2025 프리미엄 위생팬티. 모든 권리 보유.</p>
+            <p>&copy; 2025 프리미엄 요실금 위생팬티. 모든 권리 보유.</p>
           </div>
         </div>
       </footer>
