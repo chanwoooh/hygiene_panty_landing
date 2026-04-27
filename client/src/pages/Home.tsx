@@ -94,10 +94,10 @@ export default function Home() {
             <div className="space-y-6">
               <div>
                 <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground" style={{fontFamily: "'Playfair Display', serif"}}>
-                  더 이상 불편함과 타협하지 마세요
+                  요실금, 이제 팬티로 해결하세요
                 </h2>
                 <p className="text-lg text-muted-foreground">
-                  매달 찾아오는 그 날, 찝찝함, 냄새, 샘 걱정으로 불편하셨나요? 일회용 생리대의 답답함과 환경 문제, 이제는 새로운 대안이 필요합니다.
+                  요실금으로 고민이셨나요? 저희는 프리미엄 위생팬티와 동일한 고급 소재로 제작한 요실금팬티를 제공합니다. 오히려 더 높은 품질의 흡수력과 통기성으로 편안함을 보장합니다.
                 </p>
               </div>
 
@@ -107,9 +107,9 @@ export default function Home() {
                     <Droplet className="w-6 h-6 text-primary" />
                   </div>
                   <div>
-                    <h3 className="font-semibold text-foreground mb-1">완벽한 샘 방지</h3>
+                    <h3 className="font-semibold text-foreground mb-1">완벽한 누수 방지</h3>
                     <p className="text-sm text-muted-foreground">
-                      5중 흡수 구조로 활동 중에도 안심하고 지낼 수 있습니다
+                      5중 흡수 구조로 요실금 걱정 없이 하루 종일 안심하고 활동 가능
                     </p>
                   </div>
                 </div>
